@@ -1,0 +1,22 @@
+body{
+	background: #f3eafc;
+	color: #190130;
+	font-family: Helvetica, sans-serif;
+}
+h1{
+	font-family: Helvetica, sans-serif;
+	font-style: bold;
+	text-transform: uppercase;
+}
+hr{
+	width:300px;
+}
+p{
+	font-size:16px;
+}
+ul{font-weight: bold;
+}
+
+#slogan{
+	font-style: italic;
+}
