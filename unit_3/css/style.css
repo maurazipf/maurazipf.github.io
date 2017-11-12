@@ -6,6 +6,13 @@ body{
 	margin-right:100px;
 
 }
+
+div{
+	background: black;
+	color: white;
+	width: 300px;
+	display: inline-block;
+}
 h1{
 	text-align: center;
 	font-family: Helvetica, sans-serif;
@@ -24,7 +31,7 @@ hr{
 }
 
 p{
-	font-size:12px;
+	font-size:18px;
 	margin-left:100px;
 	margin-right:100px;
 	text-align: center;
