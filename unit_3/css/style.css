@@ -6,7 +6,7 @@ body{
 
 div{
 	height:300px;
-	display: inline;
+	display: inline-block;
 	background: black;
 	color:white;
 }
