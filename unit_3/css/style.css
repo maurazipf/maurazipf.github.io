@@ -1,13 +1,12 @@
 body{
 	background: white;
 	color: #bb8bf9;
-	font-family: Helvetica
+	font-family: Helvetica, sans-serif;
 	text-align: center;
-	text
 }
 
 div{
-	height:150px;
+	height:130px;
 	width:1300px;
 	display: inline-block;
 	background-color: black;
@@ -53,6 +52,7 @@ li{
 	text-align: center;
 	font-style: italic;
 	font-size: 24px;
+	font-family: Helvetica, sans-serif;
 }
 
 #layout{
