@@ -9,7 +9,7 @@ body{
 }
 
 div{
-	height:.25em;
+	height:150px;
 	margin: 0;
 	display: inline-block;
 	background-color: black;
