@@ -1,16 +1,16 @@
-<style>
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Raleway:400,700');
-</style>
+
 
 body{
 	background: white;
 	color: #bb8bf9;
 	text-align: center;
+	font-family: 'Raleway', sans-serif;
 }
 
 div{
-	height:150px;
-	width:1300px;
+	height:.25em;
+	margin: 0;
 	display: inline-block;
 	background-color: black;
 	color: white;
