@@ -29,7 +29,7 @@ h2{
 	margin-left:6em;
 	margin-right:6em;
 	text-align: center;
-	font-size:18px;
+	font-size:24px;
 }
 
 hr{
@@ -48,10 +48,11 @@ p{
 ul{
 	text-align: center;
 	list-style-type: none;
+
 }
 
 li{
-	font-weight: normal;
+	font-family: 'Raleway', sans-serif;
 }
 
 #slogan{
@@ -64,4 +65,9 @@ li{
 
 #layout{
 	align-self: center
+}
+
+img {
+	max-width: 100%;
+	height: auto;
 }
