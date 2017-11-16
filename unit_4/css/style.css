@@ -22,7 +22,7 @@ div{
 h1{
 	text-align: center;
 	font-family: 'Abril Fatface', cursive;
-	font-size: 18px;
+	font-size: 30px;
 }
 h2{
 	font-family: 'Raleway', sans-serif;
@@ -60,7 +60,7 @@ li{
 #slogan{
 	text-align: center;
 	font-style: italic;
-	font-size: 10px;
+	font-size: 14px;
 	font-family: 'Raleway', sans-serif;
 	font-weight:700px;
 }
