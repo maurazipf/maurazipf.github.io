@@ -30,29 +30,6 @@ h2{
 	margin-bottom: 10px;
 }
 
-hr{
-	width:500px;
-	margin: 0 auto;
-}
-
-p{
-	font-family: 'Raleway', sans-serif;
-	font-weight: 400px;
-	font-size:18px;
-	margin-left:3em;
-	margin-right:3em;
-	text-align: center;
-
-}
-ul{
-	text-align: center;
-	list-style-type: none;
-
-}
-
-li{
-	font-family: 'Raleway', sans-serif;
-}
 
 #slogan{
 	text-align: center;
@@ -62,35 +39,12 @@ li{
 	font-weight:700px;
 }
 
-#layout{
-	align-self: center
-}
-
 img {
 	max-width: 100%;
 	height: auto;
 }
 
 header{
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-nav{
-	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-aside{
-	background-color: ##FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-article{
-	background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -99,12 +53,51 @@ footer{
 	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
+	text-align: right;
 }
 
-section{
-	background-color:#FFE2B8;
+#container {
+	margin: 0 auto;
+	width: 900px;
+	background-color: #ffffff;
 }
 
-.column{
-	
+nav a:hover { 
+  background-color: black; 
+  color:white;
 }
+
+.column {
+	float: left;
+	width: 260px;
+  	height: 300px;
+	padding: 20px;
+	margin: 0;
+}
+
+#column1 {
+  background-color: #aaaaaa;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+#column2 {
+  background-color: #aaaaaa;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+#column3 {
+  background-color: #aaaaaa;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  clear: both;
+  height: 0;
+}
+
